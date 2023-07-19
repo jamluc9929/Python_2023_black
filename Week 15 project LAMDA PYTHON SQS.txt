@@ -1,0 +1,1 @@
+https://medium.com/@jamluc9929/building-an-sqs-lamda-and-python-system-f29783528864
